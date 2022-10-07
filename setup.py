@@ -7,7 +7,7 @@ import shlex
 import sys
 import os
 
-VERSION='1.3.0'
+VERSION='1.4.2'
 
 def pre_install():
     """Do the custom compiling of the bluepy-helper executable from the makefile"""
